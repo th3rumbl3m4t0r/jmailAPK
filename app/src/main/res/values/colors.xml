@@ -1,0 +1,5 @@
+<resources>
+    <!-- x11 night palette; the app starts in night unless day was picked in settings -->
+    <color name="window_bg">#17110C</color>
+    <color name="ic_launcher_background">#17110C</color>
+</resources>
